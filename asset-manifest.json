@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM-8TPA__useEfect/static/css/main.3ef9d1bd.css",
+    "main.js": "/HM-8TPA__useEfect/static/js/main.99e3fd83.js",
+    "index.html": "/HM-8TPA__useEfect/index.html",
+    "main.3ef9d1bd.css.map": "/HM-8TPA__useEfect/static/css/main.3ef9d1bd.css.map",
+    "main.99e3fd83.js.map": "/HM-8TPA__useEfect/static/js/main.99e3fd83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef9d1bd.css",
+    "static/js/main.99e3fd83.js"
+  ]
+}
